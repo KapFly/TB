@@ -1,4 +1,5 @@
 //接口需轉換ghproxy.com否者無法加載
+//2023-05-30
 {
 
 "spider":"./jar/fan.txt",
