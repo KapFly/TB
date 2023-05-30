@@ -12,7 +12,7 @@
 
 "sites":[
   {"key":"csp_Nmys",
-   "name":"🌾农民┃直连",
+   "name":"🌾農民┃直連",
    "type":3,
    "api":"csp_Nmys",
    "searchable":1,
@@ -87,7 +87,15 @@
 //{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 //{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 
-//{"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
+{//海外可用
+  "key":"csp_Nbys",
+  "name":"🛫泥視頻┃飛",
+  "type":3,
+  "api":"csp_NiNi",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
 //{"key":"csp_If101","name":"🛫 If101┃飞","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_trj","name": "🛫唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -97,9 +105,11 @@
 //{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/初中课堂.json"},
 //{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/高中课堂.json"},
 //{"key":"ext_live_protocol","name":"导航  http://饭太硬.ga","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
-{
+
+  
+{//彈窗信息
   "key":"cc",
-  "name":"请勿相信视频中任何广告",
+  "name":"請勿相信視頻中的廣告",
   "type":3,
   "api":"csp_XPath",
   "searchable": 0,
@@ -108,7 +118,8 @@
 }
 ],
 
-"parses":[
+
+"parses":[//聚合解析
 {
   "name":"聚合1",
  "type":3,
