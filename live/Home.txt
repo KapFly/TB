@@ -1,8 +1,5 @@
 【關於】,#genre#
-=2023-05-29=,
-
-5-10分鐘斷流,#genre#
-無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
+=2023-06-02=,
 
 Home,#genre#
 無綫新聞,http://pull-l3-cny.douyincdn.com/live/I8NmAJdtvb632.m3u8
@@ -21,3 +18,6 @@ Home,#genre#
 
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台(備),http://r.jdshipin.com/n90gt
+
+5-10分鐘斷流,#genre#
+無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
