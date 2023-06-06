@@ -1,8 +1,8 @@
 //接口需轉換ghproxy.com否者無法加載
-//2023-06-06
+//2023-06-07
 {
 
-"spider":"./jar/fan.txt",
+"spider":"./jar/fan20230606.txt",
 
 "lives":[
   //台標地址需更改
