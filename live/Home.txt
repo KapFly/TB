@@ -1,10 +1,13 @@
 【關於】,#genre#
-=2023-06-07=,
+=2023-06-17=,
 
 Home,#genre#
-無綫新聞,P2p://generationnexxxt.com:19806/fee4b6f52177485c870f9389d95a8801
 無綫新聞,http://bziyunshao.synology.me:8890/bysid/83
+無綫新聞,P2p://generationnexxxt.com:19806/fee4b6f52177485c870f9389d95a8801
+無綫新聞(測),mitv://135.148.104.228:19806/fee4b6f52177485c870f9389d95a8801
+無綫新聞(測),mitv://135.148.104.228:19806/645b35240005cc12661c74a01c6f573c
 
+無綫新聞海外版,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-69aeaa71-0389-4974-92d3-5b6710ac0f90.m3u8
 無綫新聞海外版,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-754e822c-2d75-4f2b-a34d-d39a896f1f9d.m3u8
 
 有線新聞,http://pull-l3-cny.douyincdn.com/live/I8NmAJdhktvb.m3u8
