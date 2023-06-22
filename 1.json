@@ -99,16 +99,7 @@
   "ext":"https://www.555dy1.com/"
 },
 
-{
-  "key": "csp_555XP",
-  "name": "5️⃣️五五┃直連┃XP測試",
-  "type": 3,
-  "api": "csp_XPathMacFilter",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./js/555DinJing.json"
-},    
+
 //=====  
 {
   "key": "csp_555XBPQ",
