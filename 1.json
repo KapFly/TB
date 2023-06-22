@@ -80,9 +80,26 @@
   "filterable":1,
   "ext":"https://www.555dy1.com/"
 },
+{
+   "key": "COKEMV",
+   "name": "COKEMV┃直連┃測試",
+   "type": 3,
+   "api": "csp_Cokemv",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+},
+{
+   "key": "COKEMV_XBPQ",
+   "name": "COKEMV┃直連┃XBPQ測試",
+   "type": 3,
+   "api": "csp_Cokemv",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext":"./js/cokemv.json"
+},
 
-
-//=====  
 {
   "key": "csp_555XBPQ",
   "name": "5️⃣️五五┃直連┃XBPQ",
@@ -176,7 +193,7 @@
   "quickSearch":1,
   "filterable":1
 },  
-{//海外可用 未測試
+{//海外可用 加載失敗
   "key":"csp_If101",
   "name":"🛫 If101┃飛",
   "type":3,
@@ -185,7 +202,7 @@
   "quickSearch":1,
   "filterable":1
 },
-{//海外可用 未測試
+{//海外可用
   "key":"csp_trj",
   "name": "🛫唐人街┃飛",
   "type": 3,
@@ -194,7 +211,7 @@
   "quickSearch": 1,
   "filterable": 1
 },
-{//海外可用 未測試
+{//海外可用
  "key": "吼吼",
  "name": "🛫吼吼┃飛",
  "type": 3,
@@ -205,10 +222,10 @@
  "ext": "https://tvbox.cainisi.cf/json/js/吼吼.js"
 },
 {//海外可用 未測試
- "key": "吼吼2",
- "name": "🛫吼吼┃飛┃測試",
+ "key": "吼吼XBPQ",
+ "name": "🛫吼吼┃飛┃XBPQ測試",
  "type": 3,
- "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+ "api": "csp_XBPQ",
  "searchable": 1,
  "quickSearch": 1,
  "filterable": 1,
