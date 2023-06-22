@@ -49,8 +49,8 @@
   "ext":"./js/FaanTyun.json"
 },
 {
-  "key":"csp_fantuanhd",
-  "name":"🍙飯糰┃直連┃XP測試",
+  "key":"csp_XBPQ",
+  "name":"🍙飯糰┃直連┃XBPQ測試",
   "type":3,
   "api":"csp_XPath",
   "searchable":1,
@@ -80,9 +80,9 @@
 
 {
   "key": "csp_555電影",
-  "name": "5️⃣️五五┃直連┃XP測試",
+  "name": "5️⃣️五五┃直連┃XBPQ測試",
   "type": 3,
-  "api": "csp_XPath",
+  "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
