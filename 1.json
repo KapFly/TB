@@ -29,6 +29,27 @@
   "ext":"./js/NungMan.json"
 },
 {
+  "key":"csp_NmysXP",
+  "name":"🌾農民┃直連┃XP測試",
+  "type":3,
+  "api":"csp_XPathMacFilter",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./js/NungMan.json"
+},
+{
+  "key":"csp_NmysXP",
+  "name":"🌾農民┃直連┃XBPQ測試",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./js/NungMan.json"
+},
+  
+{
   "key":"csp_fantuan",
   "name":"🍙飯糰┃直連",
   "type":3,
@@ -49,10 +70,10 @@
   "ext":"./js/FaanTyun.json"
 },
 {
-  "key":"csp_XBPQ",
+  "key":"csp_fantuan3",
   "name":"🍙飯糰┃直連┃XBPQ測試",
   "type":3,
-  "api":"csp_XPath",
+  "api":"csp_XBPQ",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
