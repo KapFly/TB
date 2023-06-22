@@ -1,5 +1,5 @@
 //接口需轉換ghproxy.com否者無法加載
-//2023-06-11
+//2023-06-22
 {
 
 "spider":"./jar/fan20230606.txt",
@@ -16,16 +16,6 @@
 "wallpaper":"https://jianbian.chuqiuyu.tk",//背景圖
 
 "sites":[
-  
-{
-  "key":"csp_Miaobo",
-  "name":"🔥秒播┃2K",
-  "type":3,
-  "api":"csp_Miaobo",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
-},
   
 //============直連 
 {
@@ -49,6 +39,26 @@
   "ext":"https://www.fantuanhd.com"
 },
 {
+  "key":"csp_fantuan",
+  "name":"🍙飯糰┃直連┃測試",
+  "type":3,
+  "api":"csp_Fantuan",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./js/FaanTyun.json"
+},
+{
+  "key":"csp_fantuan",
+  "name":"🍙飯糰┃直連┃XP測試",
+  "type":3,
+  "api":"csp_XPath",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./js/FaanTyun.json"
+},    
+{
   "key": "csp_Kunyu77",
   "name": "七七┃直連",
   "type": 3,
@@ -68,16 +78,26 @@
   "ext":"https://www.555dy1.com/"
 },
 {
-  "key": "555电影",
+  "key": "csp_555",
   "name": "5️⃣️五五┃直連┃測試",
   "type": 3,
-  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+  "api": "csp_Ys555",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://tvbox.cainisi.cf/json/js/555电影.js"
+  "ext": "./js/555DinJing.json"
 },  
-  
+
+{
+  "key": "csp_555",
+  "name": "5️⃣️五五┃直連┃XP測試",
+  "type": 3,
+  "api": "csp_XPath",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./js/555DinJing.json"
+},    
 //============APP  
 {
   "key":"csp_如如",
@@ -189,6 +209,16 @@
  "filterable": 1,
  "ext": "https://tvbox.cainisi.cf/json/js/吼吼.js"
 },
+{//海外可用 未測試
+ "key": "吼吼",
+ "name": "🛫吼吼┃飛┃測試",
+ "type": 3,
+ "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1,
+ "ext": "./js/HungHung.json"
+}, 
   
 {//彈窗信息  
   "key":"cc",
