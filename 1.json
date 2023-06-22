@@ -80,6 +80,17 @@
   "filterable":1,
   "ext":"https://www.555dy1.com/"
 },
+
+{
+  "key": "csp_555XBPQ",
+  "name": "5️⃣️五五┃直連┃XBPQ",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./js/555DinJing.json"
+},    
 {
    "key": "COKEMV",
    "name": "COKEMV┃直連┃測試",
@@ -98,18 +109,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext":"./js/cokemv.json"
-},
-
-{
-  "key": "csp_555XBPQ",
-  "name": "5️⃣️五五┃直連┃XBPQ",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./js/555DinJing.json"
-},    
+},  
 //============APP  
 {
   "key":"csp_如意",
