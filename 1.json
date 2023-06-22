@@ -93,7 +93,7 @@
    "key": "COKEMV_XBPQ",
    "name": "COKEMV┃直連┃XBPQ測試",
    "type": 3,
-   "api": "csp_Cokemv",
+   "api": "csp_XBPQ",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
