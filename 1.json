@@ -1,5 +1,5 @@
 //接口需轉換ghproxy.com否者無法加載
-//2023-06-22
+//2023-06-23
 {
 
 "spider":"./jar/fan20230606.txt",
@@ -28,16 +28,7 @@
   "filterable":1,
   "ext":"./js/NungMan.json"
 },
-{//加載失敗
-  "key":"csp_NmysXP",
-  "name":"🌾農民┃直連┃XP測試",
-  "type":3,
-  "api":"csp_XPathMacFilter",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./js/NungMan.json"
-},
+
 {//加載失敗
   "key":"csp_NmysXBPQ",
   "name":"🌾農民┃直連┃XBPQ測試",
@@ -59,16 +50,7 @@
   "filterable":1,
   "ext":"https://www.fantuanhd.com"
 },
-{//加載失敗
-  "key":"csp_fantuanXP",
-  "name":"🍙飯糰┃直連┃XP測試",
-  "type":3,
-  "api":"csp_XPathMacFilter",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./js/FaanTyun.json"
-},
+
 {//加載失敗
   "key":"csp_fantuanXBPQ",
   "name":"🍙飯糰┃直連┃XBPQ測試",
