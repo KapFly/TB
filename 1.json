@@ -28,7 +28,7 @@
   "filterable":1,
   "ext":"./js/NungMan.json"
 },
-{
+{//加載失敗
   "key":"csp_NmysXP",
   "name":"🌾農民┃直連┃XP測試",
   "type":3,
@@ -38,7 +38,7 @@
   "filterable":1,
   "ext":"./js/NungMan.json"
 },
-{
+{//加載失敗
   "key":"csp_NmysXBPQ",
   "name":"🌾農民┃直連┃XBPQ測試",
   "type":3,
@@ -59,18 +59,18 @@
   "filterable":1,
   "ext":"https://www.fantuanhd.com"
 },
-{
-  "key":"csp_fantuan2",
-  "name":"🍙飯糰┃直連┃測試",
+{//加載失敗
+  "key":"csp_fantuanXP",
+  "name":"🍙飯糰┃直連┃XP測試",
   "type":3,
-  "api":"csp_Fantuan",
+  "api":"csp_XPathMacFilter",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
   "ext":"./js/FaanTyun.json"
 },
-{
-  "key":"csp_fantuan3",
+{//加載失敗
+  "key":"csp_fantuanXBPQ",
   "name":"🍙飯糰┃直連┃XBPQ測試",
   "type":3,
   "api":"csp_XBPQ",
@@ -100,8 +100,19 @@
 },
 
 {
-  "key": "csp_555電影",
-  "name": "5️⃣️五五┃直連┃XBPQ測試",
+  "key": "csp_555XP",
+  "name": "5️⃣️五五┃直連┃XP測試",
+  "type": 3,
+  "api": "csp_XPathMacFilter",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./js/555DinJing.json"
+},    
+//=====  
+{
+  "key": "csp_555XBPQ",
+  "name": "5️⃣️五五┃直連┃XBPQ",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
