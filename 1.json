@@ -29,9 +29,9 @@
   "ext":"./js/NungMan.json"
 },
 
-{//加載失敗
+{
   "key":"csp_NmysXBPQ",
-  "name":"🌾農民┃直連┃XBPQ測試",
+  "name":"🌾農民┃直連┃XBPQ",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -93,7 +93,7 @@
 },    
 {
    "key": "COKEMV",
-   "name": "COKEMV┃直連┃測試",
+   "name": "COKEMV┃直連",
    "type": 3,
    "api": "csp_Cokemv",
    "searchable": 1,
@@ -102,7 +102,7 @@
 },
 {
    "key": "COKEMV_XBPQ",
-   "name": "COKEMV┃直連┃XBPQ測試",
+   "name": "COKEMV┃直連┃XBPQ",
    "type": 3,
    "api": "csp_XBPQ",
    "searchable": 1,
