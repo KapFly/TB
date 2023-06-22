@@ -39,7 +39,7 @@
   "ext":"./js/NungMan.json"
 },
 {
-  "key":"csp_NmysXP",
+  "key":"csp_NmysXBPQ",
   "name":"🌾農民┃直連┃XBPQ測試",
   "type":3,
   "api":"csp_XBPQ",
@@ -292,13 +292,14 @@
 },
 
 {//高清
-  "name":"1",
-  "type":1,
-  "url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url=",
-  "ext":{
-         "flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","imgo","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]
-        }
-},  
+  "name":"CKMOV",
+  "type":0,
+  "url":"https://yun.ckmov.com/?url=",
+  "ext": {
+           "flag": [ "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],
+                "header": {"User-Agent": "okhttp/4.1.0"}
+         }
+},
 {//高清
   "name":"愛酷解析",
   "type":0,
@@ -346,7 +347,7 @@
 },
   
 {//高清
-  "name": "CK解析┃測試",
+  "name": "CK解析",
   "url": "https://www.ckplayer.vip/jiexi/?url=",
   "type": 0,
   "ext":{
