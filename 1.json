@@ -39,7 +39,7 @@
   "ext":"https://www.fantuanhd.com"
 },
 {
-  "key":"csp_fantuan",
+  "key":"csp_fantuan2",
   "name":"🍙飯糰┃直連┃測試",
   "type":3,
   "api":"csp_Fantuan",
@@ -49,7 +49,7 @@
   "ext":"./js/FaanTyun.json"
 },
 {
-  "key":"csp_fantuan",
+  "key":"csp_fantuanhd",
   "name":"🍙飯糰┃直連┃XP測試",
   "type":3,
   "api":"csp_XPath",
@@ -77,19 +77,9 @@
   "filterable":1,
   "ext":"https://www.555dy1.com/"
 },
-{
-  "key": "csp_555",
-  "name": "5️⃣️五五┃直連┃測試",
-  "type": 3,
-  "api": "csp_Ys555",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./js/555DinJing.json"
-},  
 
 {
-  "key": "csp_555",
+  "key": "csp_555電影",
   "name": "5️⃣️五五┃直連┃XP測試",
   "type": 3,
   "api": "csp_XPath",
@@ -210,7 +200,7 @@
  "ext": "https://tvbox.cainisi.cf/json/js/吼吼.js"
 },
 {//海外可用 未測試
- "key": "吼吼",
+ "key": "吼吼2",
  "name": "🛫吼吼┃飛┃測試",
  "type": 3,
  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
