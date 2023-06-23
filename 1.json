@@ -102,6 +102,17 @@
   "ext": "./js/DaaiSiHingJingSi.json"
 },  
 {
+  "key": "csp_dsxys2_XBPQ",
+  "name": "大師兄┃直連┃XBPQ測試2",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./js/DaaiSiHing.json"
+},  
+  
+{
    "key": "COKEMV",
    "name": "COKEMV┃直連",
    "type": 3,
