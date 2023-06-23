@@ -90,7 +90,17 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./js/555DinJing.json"
-},    
+},
+{
+  "key": "csp_dsxys_XBPQ",
+  "name": "大師兄┃直連┃XBPQ測試",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./js/DaaiSiHingJingSi.json"
+},  
 {
    "key": "COKEMV",
    "name": "COKEMV┃直連",
@@ -211,6 +221,16 @@
   "quickSearch": 1,
   "filterable": 1
 },
+{//海外可用
+  "key":"csp_trj_XBPQ",
+  "name": "🛫唐人街┃飛┃XBPQ測試",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./js/TongJanGaaiJingJyun.json"
+},  
 {//海外可用
  "key": "吼吼",
  "name": "🛫吼吼┃飛",
