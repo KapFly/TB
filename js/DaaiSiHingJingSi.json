@@ -16,11 +16,11 @@
     "cateId": "/@href",
     "cateIdR": "/type/(\\w+).html",
     "cateManual": {
-        "电影": "電影",
+        //"电影": "1",
         //"连续剧": "2",
         //"动漫": "4",
         //"综艺": "3"
-        //"電影": "1",
+        "電影": "1",
         "劇集": "2",
         "動漫": "4",
         "綜藝": "3"        
@@ -80,7 +80,7 @@
     "scVodImgR": "\\S+(http\\S+)",
     "scVodMark": "/span[contains(@class,'pic-text')]/text()",
     "filter": {
-        "電影": [{   //電影
+        "1": [{   //電影
                 "key": "cateId",
                 "name": "類型",
                 "value": [{
