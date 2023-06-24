@@ -1,5 +1,5 @@
 //接口需轉換ghproxy.com否者無法加載
-//2023-06-23
+//2023-06-24
 {
 
 "spider":"./jar/fan20230623.txt",
@@ -18,28 +18,7 @@
 "sites":[
   
 //============直連 
-{
-  "key":"csp_Nmys",
-  "name":"🌾農民┃直連",
-  "type":3,
-  "api":"csp_Nmys",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./js/NungMan.json"
-},
 
-{
-  "key":"csp_NmysXBPQ",
-  "name":"🌾農民┃直連┃XBPQ",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./js/NungMan.json"
-},
-  
 {
   "key":"csp_fantuan",
   "name":"🍙飯糰┃直連",
@@ -51,7 +30,7 @@
   "ext":"https://www.fantuanhd.com"
 },
 
-{//加載失敗
+/*{//加載失敗
   "key":"csp_fantuanXBPQ",
   "name":"🍙飯糰┃直連┃XBPQ測試",
   "type":3,
@@ -60,7 +39,18 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"./js/FaanTyun.json"
-},    
+},*/
+
+{
+  "key": "Lezhu",
+  "name": "🐷┃樂豬┃直連┃XBPQ測試",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "filterable": 1,
+  "quickSearch": 1,
+  "searchable": 1,
+  "ext":"./js/LokZyuJingSi.json"
+},  
 {
   "key": "csp_Kunyu77",
   "name": "七七┃直連",
@@ -91,7 +81,8 @@
   "filterable": 1,
   "ext": "./js/555DinJing.json"
 },
-{
+  
+/*{
   "key": "csp_dsxys_XBPQ",
   "name": "大師兄┃直連┃XBPQ測試",
   "type": 3,
@@ -110,7 +101,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./js/DaaiSiHing.json"
-},  
+},*/
   
 {
    "key": "COKEMV",
@@ -131,6 +122,7 @@
    "filterable": 1,
    "ext":"./js/cokemv.json"
 },  
+  
 //============APP  
 {
   "key":"csp_如意",
@@ -204,6 +196,29 @@
   "changeable":0
 },
 
+//============隨緣 --直連不穩或者部分區域受限
+{
+  "key":"csp_Nmys",
+  "name":"🌾農民┃隨緣",
+  "type":3,
+  "api":"csp_Nmys",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./js/NungMan.json"
+},
+
+{
+  "key":"csp_NmysXBPQ",
+  "name":"🌾農民┃隨緣┃XBPQ",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./js/NungMan.json"
+},
+  
 //============飛
 {//海外可用 
   "key":"csp_Nbys",
@@ -324,6 +339,12 @@
 },
 
 {//高清
+  "name": "小魚解析",
+  "type": 1,
+  "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
+      
+},
+{//高清
   "name":"CKMOV",
   "type":0,
   "url":"https://yun.ckmov.com/?url=",
@@ -410,7 +431,44 @@
     "name":"抖音嗅探",
     "hosts":["douyin.com"],
     "regex":["is_play_url="]
-   }
+   },
+  
+  {
+    "host": "*",
+    "rule": ["default.365yg.com"]
+   },
+  {
+    "host": "dyxs20.com",
+    "rule": [".m3u8"]
+  },
+  {
+    "host": "www.agemys.cc",
+    "rule": ["cdn-tos","obj/tos-cn"]
+  },
+  {
+    "host": "www.sharenice.net",
+    "rule": ["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]
+  },
+  {
+    "host": "www.sharenice.net",
+    "rule": ["qianpailive.com","vid="]
+  },
+  {
+    "host": "*",
+    "rule": ["douyin.com/aweme","video_id="]
+  },
+  {
+    "host": "*",
+    "rule": ["huoshan.com","/item/video/"]
+  },
+  {
+    "host": "*",
+    "rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]
+  },
+  {
+    "host": "*",
+    "rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]
+  }
 ],
   
 //=================================  
