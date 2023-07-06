@@ -1,5 +1,5 @@
 //接口需轉換ghproxy.com否者無法加載
-//2023-06-24
+//2023-07-06
 {
 
 "spider":"./jar/fan20230623.txt",
@@ -82,7 +82,7 @@
   "ext": "./js/555DinJing.json"
 },
   
-/*{
+{
   "key": "csp_dsxys_XBPQ",
   "name": "大師兄┃直連┃XBPQ測試",
   "type": 3,
@@ -90,18 +90,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./js/DaaiSiHingJingSi.json"
-},  
-{
-  "key": "csp_dsxys2_XBPQ",
-  "name": "大師兄┃直連┃XBPQ測試2",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
   "ext": "./js/DaaiSiHing.json"
-},*/
+},
   
 {
    "key": "COKEMV",
