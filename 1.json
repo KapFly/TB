@@ -1,5 +1,5 @@
 //接口需轉換ghproxy.com否者無法加載
-//2023-07-06
+//2023-07-11
 {
 
 "spider":"./jar/fan20230623.txt",
@@ -83,10 +83,10 @@
 },
   
 {
-  "key": "csp_dsxys_XBPQ",
-  "name": "大師兄┃直連┃XBPQ測試",
+  "key": "csp_dsxys_drpy",
+  "name": "大師兄┃直連┃drpy測試",
   "type": 3,
-  "api": "csp_XBPQ",
+  "api": "./lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -328,21 +328,52 @@
  "url":"Web"
 },
 
+{
+  "name": "蝦米解析",
+  "type": 0,
+  "url": "https://jx.xmflv.com/?url=",
+  "ext": {
+          "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],
+           "header": {"User-Agent": "okhttp/4.1.0"}
+          }
+},
+{
+ "name": "1988視頻播放",
+ "type": 0,
+ "url": "https://vip.198830.com/?url="
+},
+  
+{
+ "name": "555視頻解析",
+  "type": 0,
+  "url": "https://jiexi.555jiexi.net:555/player/?url="
+},
+
+{
+ "name": "盤古視頻解析",
+ "type": 0,
+ "url": "https://www.pangujiexi.com/pangu/?url="
+},
+
+{
+ "name": "8090解析",
+ "type": 0,
+ "url": "https://www.8090.la/8090/?url="
+},
+
+{
+ "name": "M3U8解析",
+ "type": 0,
+ "url": "https://jx.m3u8.tv/jiexi/?url="
+},
+
+  
 {//高清
   "name": "小魚解析",
   "type": 1,
   "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
-      
 },
-{//高清
-  "name":"CKMOV",
-  "type":0,
-  "url":"https://yun.ckmov.com/?url=",
-  "ext": {
-           "flag": [ "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],
-                "header": {"User-Agent": "okhttp/4.1.0"}
-         }
-},
+
 {//高清
   "name":"愛酷解析",
   "type":0,
@@ -370,24 +401,7 @@
         "header":{"User-Agent":"okhttp/4.1.0"}
         }
 },   
-{//高清
-  "name":"2┃飛┃備用",
-  "type":0,
-  "url":"https://jx.bozrc.com:4433/player/?url=",
-  "ext":{
-         "flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],
-         "header":{"User-Agent":"okhttp/4.1.0"}
-        }
-},
-{
-  "name":"7┃飛┃備用┃測試",
-  "type":0,
-  "url":"https://jxdp.codermart.net/?url=",
-  "ext":{
-         "flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],
-         "header":{"User-Agent":"okhttp/4.1.0"}
-        }
-},
+
   
 {//高清
   "name": "CK解析",
