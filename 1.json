@@ -1,5 +1,5 @@
 //接口需轉換ghproxy.com否者無法加載
-//2023-07-11
+//2023-07-12
 {
 
 "spider":"./jar/fan20230623.txt",
@@ -7,10 +7,8 @@
 "lives":[
   //台標地址需更改
   {"name":"Home","type":0,"url":"./live/Home.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+  {"name":"OwenTV","type":0,"url":"https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
   {"name":"YanG Gather","type":0,"url":"https://ghproxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
-  //{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-  //{"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
-  
 ],
   
 "wallpaper":"https://jianbian.chuqiuyu.tk",//背景圖
