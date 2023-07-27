@@ -30,7 +30,7 @@
 
 {
   "key":"csp_fantuan_drpy",
-  "name":"🍙飯糰┃直連┃drpy測試┃20230727",
+  "name":"🍙飯糰┃直連┃drpy┃20230727",
   "type":3,
   "api":"./lib/drpy2.min.js",
   "searchable":1,
@@ -112,8 +112,8 @@
 },  
   
 //============APP  
-{
-  "key":"csp_薦片",
+{//播放失敗
+  "key":"csp_薦片_drpy",
   "name":"薦片┃App┃直連┃drpy測試┃20230727",
   "type":3,
   "api":"./lib/drpy2.min.js",
@@ -122,6 +122,16 @@
   "filterable":1,
   "ext":"./js/ZinPin.json"
 },  
+{
+  "key":"csp_薦片_XBPQ",
+  "name":"薦片┃App┃直連┃XBPY測試┃20230727",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./js/ZinPin.json"
+},    
 {
   "key":"csp_如意",
   "name":"🏵如意┃App┃隨緣",
