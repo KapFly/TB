@@ -1,5 +1,5 @@
 //接口需轉換ghproxy.com否者無法加載
-//2023-07-12
+//2023-07-27
 {
 
 "spider":"./jar/fan20230623.txt",
@@ -28,16 +28,16 @@
   "ext":"https://www.fantuanhd.com"
 },
 
-/*{//加載失敗
-  "key":"csp_fantuanXBPQ",
-  "name":"🍙飯糰┃直連┃XBPQ測試",
+{
+  "key":"csp_fantuan_drpy",
+  "name":"🍙飯糰┃直連┃drpy測試┃20230727",
   "type":3,
-  "api":"csp_XBPQ",
+  "api":"./lib/drpy2.min.js",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
   "ext":"./js/FaanTyun.json"
-},*/
+},
 
 {
   "key": "Lezhu",
@@ -101,10 +101,10 @@
    "filterable": 1
 },
 {
-   "key": "COKEMV_XBPQ",
-   "name": "COKEMV┃直連┃XBPQ",
+   "key": "COKEMV_drpy",
+   "name": "COKEMV┃直連┃drpy┃20230727",
    "type": 3,
-   "api": "csp_XBPQ",
+   "api": "./lib/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
@@ -112,6 +112,16 @@
 },  
   
 //============APP  
+{
+  "key":"csp_薦片",
+  "name":"薦片┃App┃直連┃drpy測試┃20230727",
+  "type":3,
+  "api":"./lib/drpy2.min.js",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./js/ZinPin.jsom"
+},  
 {
   "key":"csp_如意",
   "name":"🏵如意┃App┃隨緣",
