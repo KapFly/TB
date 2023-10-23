@@ -1,7 +1,7 @@
 【關於】,#genre#
 =不定期更新=,
 ==修改時間==,
-=2023-01-14=,
+=2023-10-24=,
 -----分割1-----,
 ☆表示可能无声,
 ✈可能需要科网,
@@ -19,28 +19,18 @@
 
 自家優選,#genre#
 
+無綫新聞,http://bziyunshao.synology.me:8889/bysid/1
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
-無綫新聞,http://shazui.8866.org:800/hls/82/index.m3u8&備用
-無綫新聞,http://radius.8866.org:800/hls/82/index.m3u8&備用
-無綫新聞,https://cdn.hklive.tv:443/xxxx/83/index.m3u8&備用
 
 
 
-無綫新聞海外版,https://2023.stream-link.org/playlist/tvb_news.tv
+無綫新聞海外版$待添加
 
 
 
-有線新聞,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
-有線新聞,https://2023.stream-link.org/playlist/cable_news.tv
-有線新聞,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8&備用
-有線新聞,https://epg.pm/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733feda5f7.m3u8$備用
-有線新聞,https://api.leonardpark.dev/live/icable/109$備用
+有線新聞$待添加
 
-民視 HD,http://123.58.201.173:52411/test/lshotel.php?id=4
-民視 HD,http://23.237.10.66:16334?&備用
-民視 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8&備用
-民視 HD,http://107.151.203.111:2209/135/us50.php?id=msk&備用
+民視 HD$待添加
 
 台視 HD,http://123.58.201.173:52411/test/lshotel.php?id=1
 台視 HD,http://23.237.10.66:16344?&備用
@@ -77,35 +67,24 @@
 
 爆谷台$待添加
 
-翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8?blog.ntnas.top
-翡翠台,https://2023.stream-link.org/playlist/tvb_jade.tv
-翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
-翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
-翡翠台,http://shazui.8866.org:800/hls/80/index.m3u8
-翡翠台,http://23.237.10.66:16106&備用
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8&備用
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
 
 
-明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
-明珠台,http://59.149.114.27:9981/stream/channelid/331671822?profile=matroska?&備用
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
 
-J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
-J2,http://116.205.130.205:66/6/807tv.php?tid=gt&id=10
-J2,http://59.149.114.27:9981/stream/channelid/353264762?profile=matroska?$備用
 
+J2,http://bziyunshao.synology.me:8890/bysid/2
+
+
+無綫新無綫新聞,http://bziyunshao.synology.me:8889/bysid/1
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
-無綫新聞,http://shazui.8866.org:800/hls/82/index.m3u8&備用
-無綫新聞,http://radius.8866.org:800/hls/82/index.m3u8&備用
-無綫新聞,https://cdn.hklive.tv:443/xxxx/83/index.m3u8&備用
 
 無綫新聞海外版,https://2023.stream-link.org/playlist/tvb_news.tv
 ✈無綫新聞海外版,https://tvp22.sky4k.top/index1.php
 
 
-無綫財經資訊$疑似改名財經體育資訊台
+無綫財經·體育·資訊,http://bziyunshao.synology.me:8890/bysid/85
 
-無綫財經·體育·資訊,https://2023.stream-link.org/playlist/tvb_fanince.tv
-無綫財經·體育·資訊,http://radius.8866.org:800/hls/83/index.m3u8&備用
 
 有線新聞,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 有線新聞,https://2023.stream-link.org/playlist/cable_news.tv
@@ -123,20 +102,20 @@ J2,http://59.149.114.27:9981/stream/channelid/353264762?profile=matroska?$備用
 有線直播新聞台,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 有線直播新聞台,https://api.leonardpark.dev/live/icable/110&備用
 
-ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
-ViuTV,http://59.149.114.27:9981/stream/channelid/1452492542?profile=matroska?&備用
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
 
-ViuTV 6,http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska?&備用
+
+ViuTV 6,http://bziyunshao.synology.me:8890/bysid/96
 
 
 RTHK 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-RTHK 31,https://2023.stream-link.org/playlist/rthk_31.tv
+RTHK 31,http://bziyunshao.synology.me:8892/bysid/31
 ✈RTHK 31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 ✈RTHK 31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 
 
 RTHK 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-RTHK 32,https://2023.stream-link.org/playlist/rthk_32.tv
+RTHK 32,http://bziyunshao.synology.me:8892/bysid/32
 ✈RTHK 32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 ✈RTHK 32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
@@ -167,9 +146,10 @@ NOW新聞台,http://116.205.130.205:66/6/807tv.php?tid=gt&id=13
 
 NOW財經台&待添加
 
-香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-香港開電視,https://2023.stream-link.org/playlist/hoy.tv
-✈香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+香港開電視,http://bziyunshao.synology.me:8890/bysid/77
+
+香港開電視資訊,http://bziyunshao.synology.me:8891/bysid/78
+
 
 
 
