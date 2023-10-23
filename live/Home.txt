@@ -1,20 +1,16 @@
 【關於】,#genre#
-=2023-07-27=,
+=2023-10-24=,
 
 Home,#genre#
-無綫新聞,https://php.teamv1.repl.co/tvb.php?id=3
 無綫新聞,http://bziyunshao.synology.me:8890/bysid/83
 
-無綫新聞海外版,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-69aeaa71-0389-4974-92d3-5b6710ac0f90.m3u8
-無綫新聞海外版,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-754e822c-2d75-4f2b-a34d-d39a896f1f9d.m3u8
+無綫新聞海外版,
 
-有線新聞,http://pull-l3-cny.douyincdn.com/live/I8NmAJdhktvb.m3u8
-有線新聞,http://pull-l3-cny.douyincdn.com/live/daddajjoj55108.m3u8
+有線新聞,
 
-有線新聞(備),http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
-有線新聞(備),http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 
-翡翠台,http://60.208.16.27:1505/gudou.php?id=1350_4500
+
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
 翡翠台,http://www.namewee.xyz/gudou.php?id=364&id=1350
 
 5-10分鐘斷流,#genre#
