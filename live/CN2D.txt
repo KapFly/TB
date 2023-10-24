@@ -19,7 +19,7 @@
 
 自家優選,#genre#
 
-無綫新聞,http://bziyunshao.synology.me:8889/bysid/1
+無綫新聞,http://bziyunshao.synology.me:8890/bysid/83
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 
 
@@ -76,7 +76,7 @@
 J2,http://bziyunshao.synology.me:8890/bysid/2
 
 
-無綫新無綫新聞,http://bziyunshao.synology.me:8889/bysid/1
+無綫新聞,http://bziyunshao.synology.me:8890/bysid/83
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 
 無綫新聞海外版,https://2023.stream-link.org/playlist/tvb_news.tv
