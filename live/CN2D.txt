@@ -1,7 +1,7 @@
 【關於】,#genre#
 =不定期更新=,
 ==修改時間==,
-=2024-06-24=,
+=2024-09-18=,
 -----分割1-----,
 ☆表示可能无声,
 ✈可能需要科网,
@@ -19,44 +19,32 @@
 
 自家優選,#genre#
 
-無綫新聞,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 
-
-
-無綫新聞海外版$待添加
-
+無綫新聞海外版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+無綫新聞海外版,http://live.cooltv.top/tv/tvb.php?id=2
 
 
 有線新聞$待添加
 
-民視 HD$待添加
+民視 HD,rtmp://f13h.mine.nu/sat/tv051
 
-台視 HD,http://123.58.201.173:52411/test/lshotel.php?id=1
-台視 HD,http://23.237.10.66:16344?&備用
-台視 HD,http://107.151.203.111:2209/135/us50.php?id=tsk&備用
+台視 HD,rtmp://f13h.mine.nu/sat/tv071
 
-中視 HD,http://123.58.201.173:52411/test/lshotel.php?id=2
-中視 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+中視 HD,rtmp://f13h.mine.nu/sat/tv091
 
-華視 HD,http://123.58.201.173:52411/test/lshotel.php?id=3
-華視 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
+華視 HD,rtmp://f13h.mine.nu/sat/tv111
 
-公視 HD,http://123.58.201.173:52411/test/lshotel.php?id=5
+公視 HD$待添加
 
-中視新聞,https://2023.stream-link.org/playlist/ctv_news.tv
-中視新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8&備用
+中視新聞$待添加
 
-東森新聞,https://2023.stream-link.org/playlist/ebc_news.tv
-東森新聞,http://123.58.201.173:52411/test/lshotel.php?id=40
+東森新聞$待添加
 
-中天新聞,https://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
-中天新聞,https://2023.stream-link.org/playlist/cti_news.tv
-中天新聞,http://123.58.201.173:52411/test/lshotel.php?id=41
-中天新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+中天新聞$待添加
 
-壹新聞,http://123.58.201.173:52411/test/lshotel.php?id=50
-
+壹新聞$待添加
 
 
 
@@ -76,10 +64,12 @@
 J2,http://bziyunshao.synology.me:8890/bysid/2
 
 
-無綫新聞,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 
-無綫新聞海外版,https://2023.stream-link.org/playlist/tvb_news.tv
+無綫新聞海外版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+無綫新聞海外版,http://live.cooltv.top/tv/tvb.php?id=2
+
 ✈無綫新聞海外版,https://tvp22.sky4k.top/index1.php
 
 
@@ -157,22 +147,18 @@ NOW財經台&待添加
 豬哥亮歌廳秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
 ✈豬哥亮歌廳秀,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv006
 
-民視 HD,http://123.58.201.173:52411/test/lshotel.php?id=4
-民視 HD,http://23.237.10.66:16334?&備用
-民視 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8&備用
-民視 HD,http://107.151.203.111:2209/135/us50.php?id=msk&備用
+民視 HD,rtmp://f13h.mine.nu/sat/tv051
+
 ✈民視 HD,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv002
 
-台視 HD,http://123.58.201.173:52411/test/lshotel.php?id=1
-台視 HD,http://23.237.10.66:16344?&備用
-台視 HD,http://107.151.203.111:2209/135/us50.php?id=tsk&備用
+台視 HD,rtmp://f13h.mine.nu/sat/tv071
 
-中視 HD,http://123.58.201.173:52411/test/lshotel.php?id=2
-中視 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+中視 HD,rtmp://f13h.mine.nu/sat/tv091
+
 ✈中視 HD,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv040
 
-華視 HD,http://123.58.201.173:52411/test/lshotel.php?id=3
-華視 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
+華視 HD,rtmp://f13h.mine.nu/sat/tv111
+
 ✈華視 HD,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv041
 
 公視 HD,http://123.58.201.173:52411/test/lshotel.php?id=5
