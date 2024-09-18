@@ -28,6 +28,10 @@
 
 有線新聞$待添加
 
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+
+華麗翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+
 民視 HD,rtmp://f13h.mine.nu/sat/tv051
 
 台視 HD,rtmp://f13h.mine.nu/sat/tv071
@@ -49,12 +53,14 @@
 
 
 🇭🇰港,#genre#
+華麗翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 華麗翡翠台,https://2023.stream-link.org/playlist/astro_jade.tv
 華麗翡翠台,http://23.237.10.66:16410&備用
 
 
 爆谷台$待添加
 
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
 
 
