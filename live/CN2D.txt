@@ -1,7 +1,7 @@
 【關於】,#genre#
 =不定期更新=,
 ==修改時間==,
-=2024-12-01=,
+=2025-03-16=,
 -----分割1-----,
 ☆表示可能无声,
 ✈可能需要科网,
@@ -19,18 +19,20 @@
 
 自家優選,#genre#
 
+無綫新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 
-
+無綫新聞海外版,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 無綫新聞海外版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 
 
 有線新聞$待添加
 
+翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 
-
+華麗翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 華麗翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 
 民視 HD,http://litv.zapi.us.kg/?id=4gtv-4gtv002
@@ -59,11 +61,12 @@
 
 
 🇭🇰港,#genre#
+華麗翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 華麗翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 
 
 爆谷台$待添加
-
+翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 
@@ -74,10 +77,12 @@
 
 J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 
+無綫新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 無綫新聞,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 
+無綫新聞海外版,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 無綫新聞海外版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 無綫新聞海外版,http://live.cooltv.top/tv/tvb.php?id=2
 
