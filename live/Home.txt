@@ -44,7 +44,7 @@ Home,#genre#
 5-10分鐘斷流,#genre#
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 
-✈【風雲】🇭🇰港,#genre#
+✈【HKTV】🇭🇰港,#genre#
 鳳凰中文,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VvUBFU&tk=88i0dBPf9qRn
 鳳凰資訊,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ytUjOP&tk=88i0dBPf9qRn
 鳳凰香港,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JoOG8g&tk=88i0dBPf9qRn
@@ -115,7 +115,7 @@ E樂台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=099Cz3&tk=88i0dBPf9qRn
 新時代1,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zVhcjz&tk=88i0dBPf9qRn
 新時代2,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SbhPWk&tk=88i0dBPf9qRn
 
-✈【風雲】🇹🇼台,#genre#
+✈【HKTV】🇹🇼台,#genre#
 中天新聞,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xeq8i8&tk=88i0dBPf9qRn
 中天CTI+,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=M75tSN&tk=88i0dBPf9qRn
 TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7YjLJx&tk=88i0dBPf9qRn
@@ -217,7 +217,7 @@ HITS,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VPsiGL&tk=88i0dBPf9qRn
 HISTORY歷史,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0WsMp1&tk=88i0dBPf9qRn
 中視經典戲劇,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fn2eao&tk=88i0dBPf9qRn
 
-✈【風雲】🇲🇴澳,#genre#
+✈【HKTV】🇲🇴澳,#genre#
 澳視澳門,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=B7iW1W&tk=88i0dBPf9qRn
 澳門Macau,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=827cRm&tk=88i0dBPf9qRn
 澳門資訊,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=frDswG&tk=88i0dBPf9qRn
